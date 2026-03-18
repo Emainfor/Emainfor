@@ -2,7 +2,9 @@
   <img src="https://github.com/user-attachments/assets/9162b7c4-38f0-40f8-b1cb-95f56ab1716a" alt="CiberShield" width="700"/>
 </p>
 
-<h1 align="center">🛡 CiberShield</h1>
+<h1 align="center">
+  <img src="https://cibershield.io/imagenes/logo-escudo.png" alt="CiberShield" width="32"/> CiberShield
+</h1>
 
 <p align="center">
   <b>Cybersecurity for SMBs</b> · <a href="https://cibershield.io">cibershield.io</a>
