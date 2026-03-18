@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5ced390a-8af5-4097-b7af-3b14a01dc146" alt="CiberShield" width="700"/>
+  <img src="https://github.com/user-attachments/assets/9162b7c4-38f0-40f8-b1cb-95f56ab1716a" alt="CiberShield" width="700"/>
 </p>
 
 <h1 align="center">🛡 CiberShield</h1>
@@ -19,7 +19,7 @@
 
 ---
 
-I built **ShieldScan** — an AI-powered cybersecurity assessment that gives small businesses a maturity score in 5 minutes. Mapped to real frameworks. Free. No registration. Zero trackers.
+I built **ShieldScan** — an AI-powered cybersecurity maturity assessment for Argentine SMBs, SaaS and Fintech companies. 24 questions, 6 domains, score 0–100, mapped to NIST CSF, ISO 27001 and COBIT, calibrated by industry, company size and region. Free. No registration. Zero trackers.
 
 <table>
 <tr>
