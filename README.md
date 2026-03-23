@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9162b7c4-38f0-40f8-b1cb-95f56ab1716a" alt="CiberShield" width="700"/>
+  <img src="https://github.com/user-attachments/assets/6b10e383-a9d9-44e6-9efb-39bef99abdf4" alt="CiberShield" width="700"/>
 </p>
 
 <h1 align="center">
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/ISO-27001-0066cc?style=flat-square" alt="ISO"/>
   <img src="https://img.shields.io/badge/COBIT-2019-0066cc?style=flat-square" alt="COBIT"/>
   <img src="https://img.shields.io/badge/Ley-25.326-D4AF37?style=flat-square" alt="Ley"/>
-  <img src="https://img.shields.io/badge/Trackers-0-10b981?style=flat-square" alt="Zero"/>
+  <img src="https://img.shields.io/badge/Trackers-0-10b981?style=flat-square" alt="Zero Trackers"/>
   <img src="https://img.shields.io/badge/AAIP-Registered-D4AF37?style=flat-square" alt="AAIP"/>
 </p>
 
@@ -38,7 +38,7 @@ I built **ShieldScan** — an AI-powered cybersecurity maturity assessment for A
 </tr>
 <tr>
 <td>📋 <b>AAIP Registered</b></td>
-<td>RL-2026-25503147-APN-DNPDP#AAIP</td>
+<td>Argentina · Data Protection Authority</td>
 </tr>
 </table>
 
@@ -53,7 +53,5 @@ I built **ShieldScan** — an AI-powered cybersecurity maturity assessment for A
 <p align="center">
   <a href="mailto:contacto@cibershield.io">📫 Email</a> · 
   <a href="https://cibershield.io">🌐 Web</a> · 
-  <a href="https://linkedin.com/in/emanuel-pereyra1-arg">💼 LinkedIn</a> · 
-  <a href="https://wa.me/+543402529216">💬 WhatsApp</a>
+  <a href="https://linkedin.com/in/emanuel-pereyra1-arg">💼 LinkedIn</a>
 </p>
--->
